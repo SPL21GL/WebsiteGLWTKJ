@@ -32,3 +32,5 @@ SPL3 Projekt HTML als Übung
 ...
 ### md
 
+- Simple syntax for clear documents
+- [md cheat sheet](https://www.markdownguide.org/cheat-sheet/)
